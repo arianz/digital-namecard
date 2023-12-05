@@ -1,0 +1,11 @@
+.App {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 400px;
+  background-color: #1A1B21;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
